@@ -1,0 +1,21 @@
+
+REferal Login****
+add referal
+edit referal
+delete referal
+
+View Referal
+
+update record
+
+zero referal search
+
+
+admin login******
+
+add referal
+edit referal
+delete referal
+
+View Referal
+
