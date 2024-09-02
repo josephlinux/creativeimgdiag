@@ -1,8 +1,0 @@
-logo background
-user log in admin/user
-user day/month report
-admin user wise day/month
-
-time stamp add in DB
-dummy set
-
